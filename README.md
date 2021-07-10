@@ -32,9 +32,9 @@ A aplicação implementa um grid com informações acerca de uma promoção para
 
 ### Front end
 - HTML5
-- [Tailwind CSS](https://tailwindcss.com/) (CSS3)
+- [Tailwind CSS](https://tailwindcss.com/) (CSS Framework)
 - Javascript ES6
-- [NextJS](https://nextjs.org/) (ReactJS)
+- [NextJS](https://nextjs.org/) (React Framework)
 
 ## :file_folder: How to run the project / Como executar o projeto
 
